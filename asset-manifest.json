@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.071220a0.css",
+    "main.js": "./static/js/main.ba0e4710.js",
+    "static/media/背景.png": "./static/media/背景.8f0b2ab0ae7c44b68ad4.png",
+    "static/media/myanmar-text-bold.ttf": "./static/media/myanmar-text-bold.4317c4c29b07abff9667.ttf",
+    "static/media/myanmarmn.ttf": "./static/media/myanmarmn.766a617ca11d79349150.ttf",
+    "static/media/loading.gif": "./static/media/loading.c40b6c55ea9dd2c9411f.gif",
+    "static/media/ChinaLogo.png": "./static/media/ChinaLogo.7e4aa892441885a6c299.png",
+    "index.html": "./index.html",
+    "main.071220a0.css.map": "./static/css/main.071220a0.css.map",
+    "main.ba0e4710.js.map": "./static/js/main.ba0e4710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071220a0.css",
+    "static/js/main.ba0e4710.js"
+  ]
+}
